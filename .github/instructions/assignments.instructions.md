@@ -33,4 +33,4 @@ Do not include extra sections unless explicitly specified.
   - Structure the starter code so it contains in init() function.  
 
 ## 2. encurage object orientated programming
-  - The starter code should contain an object with methods.
+  - The starter code should contain an object with methods. 
