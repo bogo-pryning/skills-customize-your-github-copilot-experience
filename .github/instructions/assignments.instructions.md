@@ -25,3 +25,12 @@ The section headers should reflect the structure in the template, including the 
    - Provide example input/output in code blocks if helpful.
 
 Do not include extra sections unless explicitly specified.
+
+
+# Assignment Python starter code guidelines
+
+## 1. There should always be an initializer function alled init()
+  - Structure the starter code so it contains in init() function.  
+
+## 2. encurage object orientated programming
+  - The starter code should contain an object with methods.
